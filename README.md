@@ -1,1 +1,3 @@
-# Monitoramento-de-pessoas
+Este projeto implementa um sistema embarcado de contagem de pessoas utilizando um sensor de radar LD2410 acoplado a um ESP32. O sistema detecta a presença e o movimento de pessoas dentro de um determinado ambiente com base na variação da distância de alvos em movimento. A cada movimentação detectada, o código analisa o padrão de aproximação ou afastamento e estima se houve a entrada ou saída de uma pessoa.
+
+As informações processadas são enviadas periodicamente para a nuvem via protocolo MQTT, utilizando a plataforma Adafruit IO para visualização remota dos dados. O projeto foi desenvolvido com o objetivo de oferecer uma solução de monitoramento de fluxo de pessoas com baixo custo e sem uso de câmeras, podendo ser aplicada em ambientes como laboratórios, salas de aula, banheiros e corredores.
