@@ -10,7 +10,7 @@
 #define WIFI_SSID    "sua_rede"
 #define WIFI_PASS    "senha_rede"
 
-#define AIO_SERVER      "io.adafruit.com"
+#define AIO_SERVER      "server"
 #define AIO_SERVERPORT  "port"
 #define AIO_USERNAME    "seu_user"
 #define AIO_KEY         "sua_key"
