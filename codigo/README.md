@@ -7,7 +7,7 @@ Este código foi desenvolvido para rodar no **Arduino IDE** com o ESP32 e o sens
 1. **Preparação do ambiente**  
    - Instale o [Arduino IDE](https://www.arduino.cc/en/software) (versão recomendada 1.8.13 ou superior)  
    - Adicione a placa **ESP32** no Arduino IDE seguindo o tutorial oficial:  
-     [Como adicionar suporte ao ESP32 no Arduino IDE](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
+     [Como adicionar suporte ao ESP32 no Arduino IDE]([https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html))
 
 2. **Bibliotecas necessárias**  
    Instale as seguintes bibliotecas via Gerenciador de Bibliotecas do Arduino IDE:  
