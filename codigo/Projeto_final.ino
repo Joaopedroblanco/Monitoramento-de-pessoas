@@ -7,13 +7,13 @@
 #define RADAR_RX_PIN 16
 #define RADAR_TX_PIN 17
 
-#define WIFI_SSID    "Labdigitais"
-#define WIFI_PASS    "labbom123"
+#define WIFI_SSID    "sua_rede"
+#define WIFI_PASS    "senha_rede"
 
 #define AIO_SERVER      "io.adafruit.com"
-#define AIO_SERVERPORT  1883
-#define AIO_USERNAME    "Edu17z"
-#define AIO_KEY         "aio_nula55bpvuOCygH9wyXC9novl8ZV"
+#define AIO_SERVERPORT  "port"
+#define AIO_USERNAME    "seu_user"
+#define AIO_KEY         "sua_key"
 
 // WiFi e MQTT
 WiFiClient client;
