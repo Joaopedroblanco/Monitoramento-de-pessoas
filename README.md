@@ -17,6 +17,6 @@ Os dados são enviados via protocolo **MQTT** para a plataforma **Adafruit IO**,
 
 ## Componentes Utilizados
 
-- [ESP32](https://www.espressif.com/en/products/socs/esp32)  
-- [Sensor Radar LD2410](https://www.example.com/ld2410)  
+- ESP32
+- Sensor Radar LD2410
 - Plataforma Adafruit IO para visualização dos dados  
